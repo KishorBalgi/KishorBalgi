@@ -13,3 +13,5 @@ https://kishorbalgi.github.io/Basic-JavaScript-Calculator/
 https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/
 - To do List:
 https://kishorbalgi.github.io/To-do-list/
+- Clock:
+https://kishorbalgi.github.io/Clock/

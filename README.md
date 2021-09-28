@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KishorBalgi
 - 👀 I’m interested in Web-Development,AI and Machine Learning.
 - 🌱 I’m currently learning Web-Development,Python.
-- 📫 How to reach me kishorbalgi@gmail.com
+- 📫 How to reach me kishorwebdev@gmail.com
 
 Here are some of my web projects:
 

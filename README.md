@@ -6,11 +6,59 @@
 
 #Here are some of my web projects:
 
-<h3 align="center">Connect with me:</h3>
-<div align="center" style="display: grid; grid-template-columns:1fr 1fr;">
-    <div><a href="https://debratnaghosh.github.io/debratnaghosh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=debratna-ghosh&theme=radical"></a></div>
-    <div><a href="https://kishorbalgi.github.io/Spotify-Front-End-Clone/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=Spotify-Front-End-Clone&theme=radical"></a></div>
-</div>
+<style>
+    h3 {
+      color: #fe428e;
+      font-size: 30px;
+      font-family: monospace;
+    }
+    .repos {
+      margin: 0 auto;
+    }
+    .repos-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 10px 0;
+    }
+    .repos-container img {
+      height: 200px;
+    }
+    .gif {
+      width: 300px;
+      border-radius: 10px;
+      padding: 0;
+    }
+    .repo {
+      width: 500px;
+      padding: 0 0 0 15px;
+    }
+  </style>
+<h3 align="center">My Projects:</h3>
+    <div class="repos" align="center">
+      <div class="repos-container">
+        <img
+          class="gif"
+          src="https://i.ibb.co/p1Tf2G0/Debratna-Photo.gif"
+          alt="Debratna-Photo"
+        />
+        <img
+          class="repo"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=debratna-ghosh&theme=radical"
+        />
+      </div>
+      <div class="repos-container">
+        <img
+          class="gif"
+          src="https://i.ibb.co/JsJrBMT/Spotify-Clone.gif"
+          alt="Spotify-Clone"
+        />
+        <img
+          class="repo"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=Spotify-Front-End-Clone&theme=radical"
+        />
+      </div>
+    </div>
 
 - [Photographer portfolio website](https://debratnaghosh.github.io/debratnaghosh/)
 - [Spotify front-end clone](https://kishorbalgi.github.io/Spotify-Front-End-Clone/)

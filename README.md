@@ -5,11 +5,11 @@
 
 #Here are some of my web projects:
 
-- [spotify front-end clone:]: (https://kishorbalgi.github.io/Spotify-Front-End-Clone/)
-- [basic calculator:]: (https://kishorbalgi.github.io/Basic-JavaScript-Calculator/)
-- [tic tac toe game:]: (https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
-- [to do list:]: (https://kishorbalgi.github.io/To-do-list/)
-- [clock:]: (https://kishorbalgi.github.io/Clock/)
+- [spotify front-end clone:](https://kishorbalgi.github.io/Spotify-Front-End-Clone/)
+- [basic calculator:](https://kishorbalgi.github.io/Basic-JavaScript-Calculator/)
+- [tic tac toe game:](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
+- [to do list:](https://kishorbalgi.github.io/To-do-list/)
+- [clock:](https://kishorbalgi.github.io/Clock/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -4,39 +4,7 @@
 <img width="100%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=KishorBalgi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD)" />
 </br>
 
-#Here are some of my web projects:
-
-<style>
-    h3 {
-      color: #fe428e;
-      font-size: 30px;
-      font-family: monospace;
-    }
-    .repos {
-      margin: 0 auto;
-    }
-    .repos-container {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin: 10px 0;
-    }
-    .repos-container img {
-      
-    }
-    .gif {
-        height: 200px;
-      width: 300px;
-      border-radius: 10px;
-      padding: 0;
-    }
-    .repo {
-    height: 200px;
-      width: 500px;
-      padding: 0 0 0 15px;
-    }
-  </style>
-<h3 align="center">My Projects:</h3>
+<h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">My Projects:</h3>
     <div style="margin: 0 auto;" align="center">
       <div style="display: flex;align-items: center;justify-content: center;margin: 10px 0;">
         <img
@@ -49,6 +17,7 @@
           src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=debratna-ghosh&theme=radical"
         />
       </div>
+      </br>
       <div class="repos-container">
         <img
           style="height: 200px;width: 300px;border-radius: 10px;padding: 0;"
@@ -60,6 +29,7 @@
           src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=Spotify-Front-End-Clone&theme=radical"
         />
       </div>
+      </br>
     </div>
 
 - [Photographer portfolio website](https://debratnaghosh.github.io/debratnaghosh/)

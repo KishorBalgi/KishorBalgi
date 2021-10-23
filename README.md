@@ -8,7 +8,7 @@
     <div style="margin: 0 auto;" align="center">
       <div style="display: flex;align-items: center;justify-content: center;margin: 10px 0;">
         <img
-          style="height: 200px;width: 300px;border-radius: 10px;padding: 0;"
+          style="height: 200px;width: 300px;border-radius: 10px;padding: 0;border:1px solid #ddd"
           src="https://i.ibb.co/p1Tf2G0/Debratna-Photo.gif"
           alt="Debratna-Photo"
         />
@@ -20,7 +20,7 @@
       </br>
       <div class="repos-container">
         <img
-          style="height: 200px;width: 300px;border-radius: 10px;padding: 0;"
+          style="height: 200px;width: 300px;border-radius: 10px;padding: 0;border:1px solid #ddd"
           src="https://i.ibb.co/JsJrBMT/Spotify-Clone.gif"
           alt="Spotify-Clone"
         />

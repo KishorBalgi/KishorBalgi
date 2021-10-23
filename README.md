@@ -22,39 +22,41 @@
       margin: 10px 0;
     }
     .repos-container img {
-      height: 200px;
+      
     }
     .gif {
+        height: 200px;
       width: 300px;
       border-radius: 10px;
       padding: 0;
     }
     .repo {
+    height: 200px;
       width: 500px;
       padding: 0 0 0 15px;
     }
   </style>
 <h3 align="center">My Projects:</h3>
-    <div class="repos" align="center">
-      <div class="repos-container">
+    <div style="margin: 0 auto;" align="center">
+      <div style="display: flex;align-items: center;justify-content: center;margin: 10px 0;">
         <img
-          class="gif"
+          style="height: 200px;width: 300px;border-radius: 10px;padding: 0;"
           src="https://i.ibb.co/p1Tf2G0/Debratna-Photo.gif"
           alt="Debratna-Photo"
         />
         <img
-          class="repo"
+          style="height: 200px;width: 500px;padding: 0 0 0 15px;"
           src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=debratna-ghosh&theme=radical"
         />
       </div>
       <div class="repos-container">
         <img
-          class="gif"
+          style="height: 200px;width: 300px;border-radius: 10px;padding: 0;"
           src="https://i.ibb.co/JsJrBMT/Spotify-Clone.gif"
           alt="Spotify-Clone"
         />
         <img
-          class="repo"
+          style="height: 200px;width: 500px;padding: 0 0 0 15px;"
           src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=Spotify-Front-End-Clone&theme=radical"
         />
       </div>

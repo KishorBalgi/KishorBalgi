@@ -7,11 +7,10 @@
 #Here are some of my web projects:
 
 <h3 align="center">Connect with me:</h3>
-<div align="center" styles="display: grid; grid-template-columns:1fr 1fr;">
+<div align="center" style="display: grid; grid-template-columns:1fr 1fr;">
     <div><a href="https://debratnaghosh.github.io/debratnaghosh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=debratna-ghosh&theme=radical"></a></div>
     <div><a href="https://kishorbalgi.github.io/Spotify-Front-End-Clone/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=Spotify-Front-End-Clone&theme=radical"></a></div>
 </div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KishorBalgi&repo=Spotify-Front-End-Clone)]
 
 - [Photographer portfolio website](https://debratnaghosh.github.io/debratnaghosh/)
 - [Spotify front-end clone](https://kishorbalgi.github.io/Spotify-Front-End-Clone/)

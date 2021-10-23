@@ -10,12 +10,12 @@
     <div><img width="25px" height="25px" src="https://i.ibb.co/sy9CDxk/js-logo-x.png" alt="js-logo-x" border="0"></div>
     <div><img width="25px" height="25px" src="https://i.ibb.co/fCgY73q/react-logo.png" alt="react-logo" border="0"></div>
     <div><img width="25px" height="25px" src="https://i.ibb.co/0cWvrry/redux-logo.png" alt="redux-logo" border="0"></div>
-    <div><img width="25px" height="25px" src=""/><img src="https://i.ibb.co/K5x0zpd/c-logo.png" alt="c-logo" border="0"></div>
-    <div><img width="25px" height="25px" src=""/><img src="https://i.ibb.co/K5x0zpd/cpp-logo.png" alt="c-logo" border="0"></div>
+    <div><img width="25px" height="25px" src="https://i.ibb.co/K5x0zpd/c-logo.png" alt="c-logo" border="0"></div>
+    <div><img width="25px" height="25px" src="https://i.ibb.co/K5x0zpd/cpp-logo.png" alt="c-logo" border="0"></div>
     <div><img width="25px" height="25px" src="https://i.ibb.co/MRx2XtH/python-logo.png" alt="python-logo" border="0"></div>
-    <div><img width="25px" height="25px" src=""/><img src="https://i.ibb.co/z6r9G2b/flask-logo.png" alt="flask-logo" border="0"></div>
-    <div><img width="25px" height="25px" src=""/><img src="https://i.ibb.co/nzZxjP6/leaflet-logo.png" alt="leaflet-logo" border="0"></div>
-    <div><img width="25px" height="25px" src=""/><img src="https://i.ibb.co/wK6D1Y8/firebase-logo.png" alt="firebase-logo" border="0"></div>
+    <div><img width="25px" height="25px" src="https://i.ibb.co/z6r9G2b/flask-logo.png" alt="flask-logo" border="0"></div>
+    <div><img width="25px" height="25px"  src="https://i.ibb.co/nzZxjP6/leaflet-logo.png" alt="leaflet-logo" border="0"></div>
+    <div><img width="25px" height="25px"  src="https://i.ibb.co/wK6D1Y8/firebase-logo.png" alt="firebase-logo" border="0"></div>
 
 </div>
 </br>

@@ -5,17 +5,17 @@
 </br>
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">Skills</h3>
 <p align="center">
-    <img width="35px" height="35px" src="https://i.ibb.co/283SnWs/html-logo-x.png" alt="html-logo-x" border="0">
-    <img width="35px" height="35px" src="https://i.ibb.co/xs3PD15/css-logo-x.png" alt="css-logo-x" border="0">
-    <img width="35px" height="35px" src="https://i.ibb.co/sy9CDxk/js-logo-x.png" alt="js-logo-x" border="0">
-    <img width="35px" height="35px" src="https://i.ibb.co/fCgY73q/react-logo.png" alt="react-logo" border="0">
-    <img width="35px" height="35px" src="https://i.ibb.co/0cWvrry/redux-logo.png" alt="redux-logo" border="0">
-    <img width="35px" height="35px" src="https://i.ibb.co/K5x0zpd/c-logo.png" alt="c-logo" border="0">
-    <img width="35px" height="35px" src="https://i.ibb.co/K5x0zpd/cpp-logo.png" alt="c-logo" border="0">
-    <img width="35px" height="35px" src="https://i.ibb.co/MRx2XtH/python-logo.png" alt="python-logo" border="0">
-    <img width="35px" height="35px" src="https://i.ibb.co/z6r9G2b/flask-logo.png" alt="flask-logo" border="0">
-    <img width="35px" height="35px"  src="https://i.ibb.co/nzZxjP6/leaflet-logo.png" alt="leaflet-logo" border="0">
-    <img width="35px" height="35px"  src="https://i.ibb.co/wK6D1Y8/firebase-logo.png" alt="firebase-logo" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/283SnWs/html-logo-x.png" alt="html-logo-x" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/xs3PD15/css-logo-x.png" alt="css-logo-x" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/sy9CDxk/js-logo-x.png" alt="js-logo-x" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/fCgY73q/react-logo.png" alt="react-logo" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/0cWvrry/redux-logo.png" alt="redux-logo" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/K5x0zpd/c-logo.png" alt="c-logo" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/K5x0zpd/cpp-logo.png" alt="c-logo" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/MRx2XtH/python-logo.png" alt="python-logo" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/z6r9G2b/flask-logo.png" alt="flask-logo" border="0">
+    <img width="50px" height="50px"  src="https://i.ibb.co/nzZxjP6/leaflet-logo.png" alt="leaflet-logo" border="0">
+    <img width="50px" height="50px"  src="https://i.ibb.co/wK6D1Y8/firebase-logo.png" alt="firebase-logo" border="0">
 
 </p>
 </br>

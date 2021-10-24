@@ -8,7 +8,7 @@ I have started learning backend using Node.js.
 I like reading about business, startups, tech and finance related articles:newspaper:. I also love reading books:books:. I love playing chess.
 </br>
 </br>
-Mail me at:mailbox_with_mail:: kishorwebdev@gmail.com
+<h4 align="center">Mail me at:mailbox_with_mail:: kishorwebdev@gmail.com</h4>
 </p>
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KishorBalgi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 </br>

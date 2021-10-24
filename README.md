@@ -1,8 +1,10 @@
 <button title="Website"><a href="https://kishorbalgi.netlify.app/" style="text-decoration:none;"><img width="60px" height="60px" src="https://i.ibb.co/T2jv985/KB-background.png" alt="KB-background" border="0"></a></button>
 
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">About me</h3>
-<p align="center">Hi! I am Kishor Balgi, I like to code and develop real world applications. I am currently learning web-develpoment. I am skilled at front end languages and tools like HTML, CSS, SSCC, JS, React, Redux, Hooks and much more!
-I have started learning backend using Node.js. 
+<p>Hi!:wave:  I am Kishor Balgi:smiley:, I like to code and develop real world applications. I am currently learning web-develpoment. I am skilled at frontend languages and tools like HTML, CSS, SCSS, JS, React, Redux, Hooks and much more!
+I have started learning backend using Node.js.
+</br>
+I like reading about business, startups, tech and finance related articles:newspaper:. I also love reading books. I love playing chess.
 </p>
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KishorBalgi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 </br>

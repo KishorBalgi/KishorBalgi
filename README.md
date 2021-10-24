@@ -12,7 +12,7 @@
     <img width="50px" height="50px" src="https://i.ibb.co/fCgY73q/react-logo.png" alt="react-logo" border="0">
     <img width="50px" height="50px" src="https://i.ibb.co/0cWvrry/redux-logo.png" alt="redux-logo" border="0">
     <img width="50px" height="50px" src="https://i.ibb.co/K5x0zpd/c-logo.png" alt="c-logo" border="0">
-    <img width="50px" height="50px" src="https://i.ibb.co/K5x0zpd/cpp-logo.png" alt="c-logo" border="0">
+    <img width="50px" height="50px" src="https://i.ibb.co/zZSJyRV/cpp-logo.png" alt="cpp-logo" border="0">
     <img width="50px" height="50px" src="https://i.ibb.co/MRx2XtH/python-logo.png" alt="python-logo" border="0">
     <img width="50px" height="50px" src="https://i.ibb.co/z6r9G2b/flask-logo.png" alt="flask-logo" border="0">
     <img width="50px" height="50px"  src="https://i.ibb.co/nzZxjP6/leaflet-logo.png" alt="leaflet-logo" border="0">

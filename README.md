@@ -1,7 +1,10 @@
+<link rel="stylesheet" href="./styles.css">
 <button title="Website"><a href="https://kishorbalgi.netlify.app/" style="text-decoration:none;"><img width="60px" height="60px" src="https://i.ibb.co/T2jv985/KB-background.png" alt="KB-background" border="0"></a></button>
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KishorBalgi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 </br>
-
+<div class="div">
+    <h1 class="title">Hi test</h1>
+</div>
 <img width="100%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=KishorBalgi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD)" />
 </br>
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">Skills</h3>

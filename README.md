@@ -4,7 +4,9 @@
 <p>Hi!:wave:  I am Kishor Balgi:smiley:, I like to code and develope real world applications. I am currently learning web-develpoment:computer::iphone:. I am skilled at frontend languages and tools like HTML, CSS, SCSS, JS, React, Redux, Hooks and much more!
 I have started learning backend using Node.js.
 </br>
+</br>
 I like reading about business, startups, tech and finance related articles:newspaper:. I also love reading books:books:. I love playing chess.
+</br>
 </br>
 Mail me at:mailbox_with_mail:: kishorwebdev@gmail.com
 </p>

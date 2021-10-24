@@ -10,10 +10,7 @@ I like reading about business, startups, tech and finance related articles:newsp
 </br>
 </p>
 <h4 align="center">Mail me at:mailbox_with_mail:: kishorwebdev@gmail.com</h4>
-<h4 align="center">Website:link::</h4>
-
-[visit](https://kishorbalgi.netlify.app)
-
+<h4 align="center">Website:link::<a href="https://kishorbalgi.netlify.app">Visit</a></h4>
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KishorBalgi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 </br>
 <img width="100%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=KishorBalgi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD)" />

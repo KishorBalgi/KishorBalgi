@@ -31,6 +31,7 @@ I like reading about business, startups, tech and finance related articles:newsp
 
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">My Projects:</h3>
 
+- Chat App: [View Project](https://chat-client-kb.herokuapp.com/)
 - Photographer portfolio website: [View Project](https://debratnaghosh.github.io/debratnaghosh/)
 - Spotify front-end clone: [View Project](https://kishorbalgi.github.io/Spotify-Front-End-Clone/)
 - Tic Tac Toe game: [View Project](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)

@@ -40,6 +40,8 @@ I like reading about business, startups, tech and finance related articles:newsp
 - Basic calculator: [View Project](https://kishorbalgi.github.io/Basic-JavaScript-Calculator/)
 
 </br>
+- Download Resume: [Link](https://github.com/KishorBalgi/KishorBalgi/files/8954420/Resume.pdf)
+
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/KishorBalgi" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>

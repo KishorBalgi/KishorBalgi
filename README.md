@@ -1,11 +1,11 @@
 <button title="Website"><a href="https://kishorbalgi.netlify.app" style="text-decoration:none;"><img width="60px" height="60px" src="https://i.ibb.co/T2jv985/KB-background.png" alt="KB-background" border="0"></a></button>
 
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">About me</h3>
-<p>Hi!:wave:  I am Kishor Balgi:smiley:, I like to code and develope real world applications. I am currently learning web-develpoment:computer::iphone:. I am skilled at frontend languages and tools like HTML, CSS, SCSS, JS, React, Redux, Hooks and much more!
-I have started learning backend using Node.js.
+<p>Hi!:wave:  I am Kishor Balgi:smiley:, I like to code and develope real world applications. I am currently learning web-develpoment:computer::iphone:. I am a Full-Stack developer familiar with technologies like React.js, Node.js, MongoDB, Express.js and much more!
+I am currently learning Next.js🚀
 </br>
 </br>
-I like reading about business, startups, tech and finance related articles:newspaper:. I also love reading books:books:. I love playing chess.
+I like reading about business, startups, tech and finance related articles:newspaper:. I also enjoy books and offten play chess!
 </br>
 </br>
 </p>

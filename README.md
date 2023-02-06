@@ -3,6 +3,7 @@
 
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">About me</h3>
 <p>Hi!:wave:  I am Kishor Balgi:smiley:, I like to code and develope real world applications. I am currently learning web-develpoment:computer::iphone:. I am a Full-Stack developer familiar with technologies like React.js, Node.js, MongoDB, Express.js and much more!
+    
 I am currently learning Next.js🚀
 </br>
 </br>

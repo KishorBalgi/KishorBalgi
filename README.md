@@ -36,11 +36,6 @@ I like reading about business, startups, tech and finance related articles:newsp
 - E-Commerce App: [View Project](https://e-com-app-kb.vercel.app/)
 - CSE-Repo App: [View Project](https://cse-repo.vercel.app/)
 - Photographer portfolio website: [View Project](https://debratnaghosh.github.io/debratnaghosh/)
-- Spotify front-end clone: [View Project](https://kishorbalgi.github.io/Spotify-Front-End-Clone/)
-- Tic Tac Toe game: [View Project](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
-- To do list: [View Project](https://kishorbalgi.github.io/To-do-list/)
-- Clock: [View Project](https://kishorbalgi.github.io/Clock/)
-- Basic calculator: [View Project](https://kishorbalgi.github.io/Basic-JavaScript-Calculator/)
 
 </br>
 

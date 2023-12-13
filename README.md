@@ -2,7 +2,7 @@
 <button title="Website"><a href="https://kishorbalgi.netlify.app" style="text-decoration:none;"><img style="object-fit:contain;" width="60px" height="60px" src="https://user-images.githubusercontent.com/75678927/216667119-5d1c32fc-dd3e-400d-8913-1f5578fa2427.png" alt="KB-background" border="0"></a></button>
 
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">About me</h3>
-<p>Hi!:wave:  I am Kishor Balgi:smiley:, I like to code and develope real world applications. I am currently learning web-develpoment:computer::iphone:. I am a Full-Stack developer familiar with technologies like React.js, Node.js, MongoDB, Express.js and much more!
+<p>Hi!  I am Kishor Balgi, I like to code and develope real world applications. I am currently learning web-develpoment. I am a Full-Stack developer familiar with technologies like React.js, Node.js, MongoDB, Express.js and much more!
     
 I am currently learning Next.js🚀
 </br>
@@ -30,7 +30,7 @@ I like reading about business, startups, tech and finance related articles:newsp
 </br>
 
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">My Projects:</h3>
-
+- Peer-to-peer video communication: [View Project](https://p-to-p-video-client.onrender.com/)
 - AURA website: [View Project](https://aura-git.vercel.app/)
 - Chat App: [View Project](https://chat-client-kb.vercel.app/)
 - E-Commerce App: [View Project](https://e-com-app-kb.vercel.app/)

@@ -1,17 +1,15 @@
 <!-- <button title="Website"><a href="https://kishorbalgi.netlify.app" style="text-decoration:none;"><img width="60px" height="60px" src="https://i.ibb.co/T2jv985/KB-background.png" alt="KB-background" border="0"></a></button> -->
+
 <button title="Website"><a href="https://kishorbalgi.netlify.app" style="text-decoration:none;"><img style="object-fit:contain;" width="60px" height="60px" src="https://user-images.githubusercontent.com/75678927/216667119-5d1c32fc-dd3e-400d-8913-1f5578fa2427.png" alt="KB-background" border="0"></a></button>
 
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">About me</h3>
-<p>Hi!  I am Kishor Balgi, I like to code and develope real world applications. I am currently learning web-develpoment. I am a Full-Stack developer familiar with technologies like React.js, Node.js, MongoDB, Express.js and much more!
-    
-I am currently learning Next.js🚀
-</br>
-</br>
-I like reading about business, startups, tech and finance related articles:newspaper:. I also enjoy books and offten play chess!
+<p>Hi!  I am Kishor Balgi, Software Engineer experienced in building RESTful APIs and scalable services using Node.js and Express.js.
+Proficient in PostgreSQL and MongoDB. Focused on writing clean, efficient code and delivering reliable backend
+solutions.
 </br>
 </br>
 </p>
-<h4 align="center">Mail me at:mailbox_with_mail:: kishorwebdev@gmail.com</h4>
+<h4 align="center">Mail me at:mailbox_with_mail:: kishorbalgi@gmail.com</h4>
 <h4 align="center">Website:link::<a href="https://kishorbalgi.netlify.app">Visit</a></h4>
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KishorBalgi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 </br>
@@ -19,18 +17,29 @@ I like reading about business, startups, tech and finance related articles:newsp
 </br>
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">Skills</h3>
 <p align="center">
-    <img width="50px" height="50px" src="https://i.ibb.co/283SnWs/html-logo-x.png" alt="html-logo-x" border="0">
-    <img width="50px" height="50px" src="https://i.ibb.co/xs3PD15/css-logo-x.png" alt="css-logo-x" border="0">
-    <img width="50px" height="50px" src="https://i.ibb.co/sy9CDxk/js-logo-x.png" alt="js-logo-x" border="0">
-    <img width="50px" height="50px" src="https://i.ibb.co/fCgY73q/react-logo.png" alt="react-logo" border="0">
-    <img width="50px" height="50px" src="https://i.ibb.co/0cWvrry/redux-logo.png" alt="redux-logo" border="0">
-    <img width="50px" height="50px" src="https://i.ibb.co/zZSJyRV/cpp-logo.png" alt="cpp-logo" border="0">
-    <img width="50px" height="50px" src="https://i.ibb.co/MRx2XtH/python-logo.png" alt="python-logo" border="0">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/express-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/redis.png"/>
+<img src="https://img.icons8.com/color/48/000000/nginx.png"/>
+</br>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/github.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 </br>
 
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">My Projects:</h3>
 
+- Newsletter App: [View Project](https://github.com/KishorBalgi/newsletter-app)
 - Peer-to-peer video communication: [View Project](https://p-to-p-video-client.onrender.com/)
 - AURA website: [View Project](https://aura-git.vercel.app/)
 - Chat App: [View Project](https://chat-client-kb.vercel.app/)
